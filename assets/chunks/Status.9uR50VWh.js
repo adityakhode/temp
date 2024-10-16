@@ -1,0 +1,1 @@
+const s="/assets/setup/bootProcess.png",t="/assets/setup/accelerometer_calibration.png",e="/assets/setup/flightMode.png",o="/assets/setup/MOTORS_CW_CCWLegend.jpg",p="/assets/setup/moter.png",a="/assets/setup/Status.jpg";export{s as _,t as a,e as b,o as c,p as d,a as e};
