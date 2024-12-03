@@ -1,0 +1,1 @@
+const s="/drone-in-box/assets/setup/roll.png",o="/drone-in-box/assets/setup/pitch.png",t="/drone-in-box/assets/setup/yaw.png",e="/drone-in-box/assets/setup/Throttle.png",n="/drone-in-box/assets/setup/RadioMasterPowerButton.png",p="/drone-in-box/assets/setup/RadioMasterModel.png";export{s as _,o as a,t as b,e as c,n as d,p as e};

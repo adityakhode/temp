@@ -1,0 +1,1 @@
+const s="/drone-in-box/assets/SwiftPro/stableDownlaod.png",o="/drone-in-box/assets/setup/bootProcess.png",t="/drone-in-box/assets/setup/accelerometer_calibration.png",e="/drone-in-box/assets/setup/Status.jpg",n="/drone-in-box/assets/setup/ctrlF.png";export{s as _,o as a,t as b,e as c,n as d};
